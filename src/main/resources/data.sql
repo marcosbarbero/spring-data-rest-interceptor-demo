@@ -1,0 +1,1 @@
+INSERT INTO exams (id, customer_id, name) VALUES (1, 100, 'Shrek');
